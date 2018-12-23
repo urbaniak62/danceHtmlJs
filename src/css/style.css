@@ -1,0 +1,160 @@
+html,body{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 100%;
+    font-family: Poppins !important;
+}
+/* body{
+    
+    
+} */
+.logo h1{
+    line-height: 20px;
+    float: left;
+    margin: 1.2em 0 0 2.2em;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
+.nav{
+    line-height: 40px;
+    position: absolute;
+    margin: 1.2em;
+    right:0;
+}
+.nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 36px;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.social-media{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 30px;
+}
+.social-media ul li{
+    list-style: none;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+.side-strip{
+    position: absolute;
+    top: 40%;
+    transform: translateY(-50%);
+    right: -10em;
+    font-weight: bold;
+    transform: rotate(90deg);
+    letter-spacing: 4px;
+    color: #fff;
+}
+.header{
+    width: 55%;
+    position: absolute;
+    top: 18%;
+    left: 20%;
+    transform: translate(-50% -50%);
+    color: white;
+}
+.header h1{
+    font-weight: bolder;
+}
+.header p{
+    font-weight: lighter;
+}
+.header button{
+    margin-top: 12px;
+    border: none;
+    padding: 14px 30px;
+    background: rgb(255, 255, 255);
+    color: #000;
+    letter-spacing: 4px;
+    font-weight: 600;
+    font-style: 14px;
+}
+.bottom-bar{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(7, 7, 7, 0.596);
+}
+.row{
+    padding: 2em ;
+    /* background: rgba(7, 7, 7, 0.596); */
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    color: #fff;
+}
+.bottom-bar h6{
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.bottom-bar p{
+    font-weight: lighter;
+    font-style: 14px;
+}
+.overlay{
+    z-index: 1;
+    position: absolute;
+    background: #fff;
+    color: rgb(12, 12, 12);
+    width: 100%;
+    height: 100vh;
+    top: 0%;
+}
+.overlay h1{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50% -50%);
+    /* font-style: 20px; */
+    font-weight: bolder;
+    font-size:30px;
+    letter-spacing: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
