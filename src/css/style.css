@@ -78,7 +78,7 @@ html,body{
 }
 .bottom-bar{
     position: absolute;
-    top: 100%;
+    top: 90%;
     left: 0;
     right: 0;
     background: rgba(7, 7, 7, 0.596);
